@@ -4,6 +4,7 @@ Assignment 1:
 
 - Run Counter and matrix multiplication in Godbolt with two different ISA
 - Compare the result and share the findings.
+![arm_gcc_trunk](https://github.com/haran2001/VSD-riscv/images/arm_gcc_trunk.png)
   ![ARM GCC trunk](/images/arm_gcc_trunk.png)
   ![RISCV GCC trunk](/images/riscv_32_gcc_trunk1.png)
 
