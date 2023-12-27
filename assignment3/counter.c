@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include <unistd.h>
+//#include <stdio.h>
+//#include <unistd.h>
 
 int main()
 {
@@ -8,7 +8,7 @@ int main()
 
     while (1)
     {
-        printf("%d\n", count);
+        //printf("%d\n", count);
         count++;
         if (count == limit)
         {

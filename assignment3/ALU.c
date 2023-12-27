@@ -1,4 +1,4 @@
-#include <stdio.h>
+//#include <stdio.h>
 
 int add(int a, int b)
 {
@@ -40,11 +40,11 @@ int main()
     int a, b, result = 0;
     char operation;
 
-    printf("Enter two numbers ");
-    scanf("%d %d", &a, &b);
+    //printf("Enter two numbers ");
+    //scanf("%d %d", &a, &b);
 
-    printf("Enter the operation: ");
-    scanf(" %c", &operation);
+    //printf("Enter the operation: ");
+    //scanf(" %c", &operation);
 
     switch (operation)
     {
@@ -70,11 +70,11 @@ int main()
         result = bitwiseNOT(a);
         break;
     default:
-        printf("Invalid operation\n");
+        //printf("Invalid operation\n");
         return 1;
     }
 
-    printf("Result: %d\n", result);
+    //printf("Result: %d\n", result);
 
     return 0;
 }
