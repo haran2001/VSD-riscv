@@ -1,5 +1,5 @@
  - Block Diagram:
-   ![s2](https://github.com/haran2001/VSD-riscv/assets/56040092/ea6854c3-d6f0-405c-9b9d-210043a040a7)
+![s2](https://github.com/haran2001/VSD-riscv/assets/56040092/ea6854c3-d6f0-405c-9b9d-210043a040a7)
 
  - Code:
    ```C
