@@ -41,8 +41,10 @@ Blinky will use an RV32 processor to turn an LED ON/OFF.
    }```
    
 - Commands:
+- The following command was used to generate the RV32 assembly.
   ![s3](https://github.com/haran2001/VSD-riscv/assets/56040092/38d17f63-c2e1-4fbe-9649-d29b0f253af5)
   
 - Unique instructions:
+- A python script was used to find and display all the unique instructions used in the code. 
   ![s1](https://github.com/haran2001/VSD-riscv/assets/56040092/296abf87-5fd0-4b93-911d-19f47a01972a)
   
