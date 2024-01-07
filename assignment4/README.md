@@ -1,10 +1,11 @@
-Blinky will use an RV32 processor to turn an LED ON/OFF.
+Blinky will use an RV32 processor to turn an LED ON/OFF. [David](https://github.com/davidbroughsmyth) doorbell as a reference which can be found here: https://github.com/davidbroughsmyth/riscv-hdp/tree/main/ex4/doorbell
 
  - Block Diagram:
 	- The following is the block diagram
  	- ![s2](https://github.com/haran2001/VSD-riscv/assets/56040092/ea6854c3-d6f0-405c-9b9d-210043a040a7)
 
  - Code:
+ 	- The following is the code used 
    ```C
    //#include <stdio.h>
    void sleep(int seconds)
