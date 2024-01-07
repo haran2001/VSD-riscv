@@ -1,4 +1,6 @@
  - Block Diagram:
+   ![s2](https://github.com/haran2001/VSD-riscv/assets/56040092/ea6854c3-d6f0-405c-9b9d-210043a040a7)
+
  - Code:
    ```C
    //#include <stdio.h>
@@ -34,6 +36,10 @@
    }
    return 0;
    }```
- - Commands:
- - Unique instructions:
-
+   
+- Commands:
+  ![s3](https://github.com/haran2001/VSD-riscv/assets/56040092/38d17f63-c2e1-4fbe-9649-d29b0f253af5)
+  
+- Unique instructions:
+  ![s1](https://github.com/haran2001/VSD-riscv/assets/56040092/296abf87-5fd0-4b93-911d-19f47a01972a)
+  
