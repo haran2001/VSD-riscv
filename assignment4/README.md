@@ -26,7 +26,6 @@ while(1)
                 LED_STATUS = 0;
 		// printf("OFF");
                 sleep(1);
-                
                 LED_GPIO = 0;
         }
         else
