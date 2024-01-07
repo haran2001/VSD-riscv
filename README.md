@@ -15,7 +15,9 @@ Assignment 2:
 - Write an ALU in verilog with testbench.
 
 Assignment 3:
-
+- Use spike to verify a sample C program
+- Use spike to verify the counter, matmul and ALU programs written in Assignment 1 and 2 
+  
 Assignment 4:
 - Develop an IoT idea with a RV32 processor
 - Should contain GPIO
