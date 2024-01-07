@@ -47,5 +47,6 @@ Blinky will use an RV32 processor to turn an LED ON/OFF. [David](https://github.
   
 - Unique instructions:
 	- A python script was used to find and display all the unique instructions used in the code.
+	- There were 35 unique RISCV instructions used.
  	- ![s1](https://github.com/haran2001/VSD-riscv/assets/56040092/296abf87-5fd0-4b93-911d-19f47a01972a)
   
