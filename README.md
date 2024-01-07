@@ -13,3 +13,9 @@ Assignment 2:
 - Complete adddition in signed decimal form.
 - Write an ALU in C
 - Write an ALU in verilog with testbench.
+
+Assignment 3:
+
+Assignment 4:
+- Develop an IoT idea with a RV32 processor
+- Should contain GPIO
